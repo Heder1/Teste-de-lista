@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,Globo Rio_1
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/globorj_bc15c774_84026f1ea10eb1d1b2213491649f44ddf72a52b5/playlist.m3u8
+#EXTINF:-1,Telecine Premium_3
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepremium_a929eb33_b29e5a0adf17c6ffb641431edb74d4bf7f2cca9f/playlist.m3u8
+#EXTINF:-1,Canal Combate_4
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/combate_ac3478d6_9989c3aedb8a6e60b3c4ffe4181a5bfd23897833/playlist.m3u8
+#EXTINF:-1,Fox_5
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/fox_5a5b0f9b_a85b43805efcbce4af19c70bd705e778f7b5f67d/playlist.m3u8
+#EXTINF:-1,Multishow_7
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/multishow_5f573b82_9cb7f5684037cc3f35ced2dc3b01075a6c66bee5/playlist.m3u8
+#EXTINF:-1,Univesrsal_8
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/universalchannel_8290abc6_9ce4e5afda9181bbf93a7671e21b12af9b5364e4/playlist.m3u8
+#EXTINF:-1,Discovery Channel_9
+https://edge-aws.aovivo.club/hls/s:95.216.15.44:81/discoverychannel_af3e1334_1c285da00256c67d2b1c97964b8192604e2c2f5a/playlist.m3u8
+#EXTINF:-1,Max Up_10
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/maxup_ce09b127_33b9bc382a71199f5d6148bba09360ed989e459a/playlist.m3u8
+#EXTINF:-1,Studio Universal_11
+https://edge-aws.aovivo.club/hls/s:78.46.240.155/studiouniversal_8b4753ed_cb5d775507540cc7cbd704a54b2568d84730211d/playlist.m3u8
+#EXTINF:-1,Cinemax
+https://edge-aws.aovivo.club/hls/s:209.126.108.100:81/cinemax720p_49117359_611231e2833b71b4cccce7268338c6b9c3d149d0/playlist.m3u8
